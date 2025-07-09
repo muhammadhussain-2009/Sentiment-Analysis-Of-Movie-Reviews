@@ -30,7 +30,6 @@
     - [Prerequisites](#-prerequisites)
     - [Installation](#-installation)
     - [Usage](#-usage)
-    - [Testing](#-testing)
 - [Features](#-features)
 - [Project Structure](#-project-structure)
     - [Project Index](#-project-index)
@@ -152,13 +151,6 @@ Run the project with:
 
 echo 'INSERT-RUN-COMMAND-HERE'
 
-### 🧪 Testing
-
-Sentiment-analysis-of-movie-reviews uses the {__test_framework__} test framework. Run the test suite with:
-
-echo 'INSERT-TEST-COMMAND-HERE'
-
----
 
 ## 📜 License
 
