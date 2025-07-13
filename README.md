@@ -123,7 +123,8 @@ This project offers a comprehensive pipeline for analyzing and classifying the s
 
 This project requires the following dependencies:
 
-- **Programming Language:** JupyterNotebook
+- **Programming Language:** Python, JupyterNotebooK
+- **Libraries and Dependencies:** Pandas, Numpy, Seaborn, Matplotlib, ScikitLearn 
 
 ### ⚙️ Installation
 
@@ -140,18 +141,7 @@ Build Sentiment-Analysis-Of-Movie-Reviews from the source and install dependenci
     ```sh
     ❯ cd Sentiment-Analysis-Of-Movie-Reviews
     ```
-
-3. **Install the dependencies:**
-
-echo 'INSERT-INSTALL-COMMAND-HERE'
-
-### 💻 Usage
-
-Run the project with:
-
-echo 'INSERT-RUN-COMMAND-HERE'
-
-
+    
 ## 📜 License
 
 Sentiment-analysis-of-movie-reviews is protected under the [LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
