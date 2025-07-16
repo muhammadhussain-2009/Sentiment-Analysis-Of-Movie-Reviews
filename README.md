@@ -28,8 +28,6 @@
 - [Overview](#-overview)
 - [Getting Started](#-getting-started)
     - [Prerequisites](#-prerequisites)
-    - [Installation](#-installation)
-    - [Usage](#-usage)
 - [Features](#-features)
 - [Project Structure](#-project-structure)
     - [Project Index](#-project-index)
